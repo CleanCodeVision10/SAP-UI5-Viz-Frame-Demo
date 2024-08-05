@@ -1,0 +1,48 @@
+.noMargin {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.equalColumns{
+    min-height: 200px;
+    padding: 1rem;
+}
+.equalColumnsTitle{
+    min-height: 10px;
+    padding: 1rem;
+}
+
+
+.backgroundcolorf1 {
+	background-color: #ca4d4d;
+    margin: 0.05rem;
+}
+.backgroundcolorf2 {
+	background-color: #cd0808;
+    margin: 0.05rem;
+}
+.backgroundcolorf3 {
+	background-color: #a00000;
+    margin: 0.05rem;
+}
+.backgroundcolorf4 {
+	background-color: #cdb239;
+    margin: 0.05rem;
+}
+.backgroundcolorf5 {
+	background-color: #de7e00;
+    margin: 0.05rem;
+}
+.backgroundcolorf6 {
+	background-color: #cf8300;
+    margin: 0.05rem;
+}
+.vertical-text {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    background: snow;
+}
+.vertical-transparent-text {
+    writing-mode: vertical-rl;
+    color: transparent;
+}

@@ -1,0 +1,148 @@
+{
+    "c1": [
+        { "Category": "Category A", "Value": 10 },
+        { "Category": "Category B", "Value": 20 },
+        { "Category": "Category C", "Value": 30 }
+    ],
+    "c2" : [
+        { "Category": "Category 1", "Value": 100 },
+        { "Category": "Category 2", "Value": 200 },
+        { "Category": "Category 3", "Value": 300 },
+        { "Category": "Category 4", "Value": 400 }
+    ],
+    "c3": [
+        { "Category": "Category A", "Value": 10 },
+        { "Category": "Category B", "Value": 20 },
+        { "Category": "Category C", "Value": 30 }
+    ],
+    "c4": [
+        { "Category": "Category 1", "Value": 100 },
+        { "Category": "Category 2", "Value": 200 },
+        { "Category": "Category 3", "Value": 300 },
+        { "Category": "Category 4", "Value": 400 }
+    ],
+    "c5": [
+        {
+            "SpecificSupplyCategories": "Drug Substances",
+            "OverallCategoryCriticality": "High",
+            "Event": "CA Wildfire",
+            "Impact": "Critical Isolated",
+            "Category": "Weather Hazard",
+            "PrimaryOwner": "John Doe",
+            "MitigationUnderway": "Yes",
+            "Status": "Completed"
+        },
+        {
+            "SpecificSupplyCategories": "Drug Substances",
+            "OverallCategoryCriticality": "Low",
+            "Event": "CA Wildfire",
+            "Impact": "Critical Global",
+            "Category": "Geo-Political",
+            "PrimaryOwner": "Jane Smith",
+            "MitigationUnderway": "No",
+            "Status": "Delayed"
+        },
+        {
+            "SpecificSupplyCategories": "Drug Substances",
+            "OverallCategoryCriticality": "High",
+            "Event": "CA Wildfire",
+            "Impact": "Critical Global",
+            "Category": "Weather Hazard",
+            "PrimaryOwner": "Michael Johnson",
+            "MitigationUnderway": "Yes",
+            "Status": "In Progress"
+        },
+        {
+            "SpecificSupplyCategories": "Drug Substances",
+            "OverallCategoryCriticality": "Low",
+            "Event": "CA Wildfire",
+            "Impact": "Critical Isolated",
+            "Category": "Geo-Political",
+            "PrimaryOwner": "Emily Davis",
+            "MitigationUnderway": "No",
+            "Status": "Delayed"
+        },
+        {
+            "SpecificSupplyCategories": "Drug Substances",
+            "OverallCategoryCriticality": "High",
+            "Event": "CA Wildfire",
+            "Impact": "Critical Global",
+            "Category": "Weather Hazard",
+            "PrimaryOwner": "Chris Wilson",
+            "MitigationUnderway": "Yes",
+            "Status": "Completed"
+        },
+        {
+            "SpecificSupplyCategories": "Drug Substances",
+            "OverallCategoryCriticality": "Low",
+            "Event": "CA Wildfire",
+            "Impact": "Critical Isolated",
+            "Category": "Geo-Political",
+            "PrimaryOwner": "Sarah Brown",
+            "MitigationUnderway": "No",
+            "Status": "In Progress"
+        },
+        {
+            "SpecificSupplyCategories": "Drug Substances",
+            "OverallCategoryCriticality": "High",
+            "Event": "CA Wildfire",
+            "Impact": "Critical Global",
+            "Category": "Weather Hazard",
+            "PrimaryOwner": "Andrew Miller",
+            "MitigationUnderway": "Yes",
+            "Status": "Completed"
+        }
+        
+    ],
+    "milk": [
+        {
+          "Store Name": "24-Seven",
+          "Revenue": 5000,
+          "Month": "January"
+        },
+        {
+          "Store Name": "A&A",
+          "Revenue": 8000,
+          "Month": "January"
+        },
+        {
+          "Store Name": "Alexei's Specialities",
+          "Revenue": 7000,
+          "Month": "January"
+        },
+        {
+          "Store Name": "24-Seven",
+          "Revenue": 17000,
+          "Month": "February"
+        },
+        {
+          "Store Name": "A&A",
+          "Revenue": 32000,
+          "Month": "February"
+        },
+        {
+          "Store Name": "Alexei's Specialities",
+          "Revenue": 40000,
+          "Month": "February"
+        },
+        {
+          "Store Name": "24-Seven",
+          "Revenue": 50001,
+          "Month": "March"
+        },
+        {
+          "Store Name": "A&A",
+          "Revenue": 60000,
+          "Month": "March"
+        },
+        {
+          "Store Name": "Alexei's Specialities",
+          "Revenue": 59000,
+          "Month": "March"
+        }
+      ]
+
+    
+
+
+}
